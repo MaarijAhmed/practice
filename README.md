@@ -1,11 +1,7 @@
 # Megatech Token
 he official repo for the Megatech (MGT) Token, with description of: all of the unit tests used and the contracts deployed to the Binance Smart Chain for the MGT token.
 # Project Status
-The project is in progress. More info, documents, tests, and code will be added. Docs Proofread is required.
-
-# Specs
-
-Are found in the [Requirements.pdf](./docs/Requirements.pdf) file
+The token contract has been deployed to the Binance Smart Chain (BSC).
 
 # Getting Started
 Recommended Node version is 16.0.0 and above.
